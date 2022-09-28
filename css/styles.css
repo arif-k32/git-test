@@ -1,13 +1,35 @@
-div
-{
-	background-color:blue;
-	color:green;
-}
+
+
 
 .alert
-{
-	background-color:green;
-	color:red;
-}
+	{
+		background-color:green;
+		color:red;
+	}
+
+.highlighted
+	{
+		background-color:black;
+		color:rgba(100,100,0,80);
+	}	
+.subsection.header
+	{
+		color:brown;
+	}
+
+.subsection .header
+	{
+		color:brown;
+	}
+
+.fontsize
+	{
+		font-size: 18px;
+	}
+img	
+	{
+		height:auto;
+		width:250px;
+	}
 
 
